@@ -1,6 +1,10 @@
 body {
     background-image: url(newsbg.webp);
   margin: 0;
+  height: 100;
+  background-position: center;
+  background-repeat:  no-repeat;
+  background-size: cover;
   font-family: Arial, Helvetica, sans-serif;
 }
 .nav {
